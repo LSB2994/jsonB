@@ -1,0 +1,11 @@
+<!--<mapper namespace="com.example.ProductMap">-->
+
+<!--    <resultMap id="productResultMap" type="com.example.Product">-->
+<!--        <id property="id" column="id"/>-->
+<!--        <result property="name" column="name"/>-->
+<!--        <result property="description" column="description"/>-->
+<!--        <result property="price" column="price"/>-->
+<!--        <result property="jsonData" column="json_data" jdbcType="OTHER" typeHandler="com.example.JsonBTypeHandler"/>-->
+<!--    </resultMap>-->
+
+<!--</mapper>-->
